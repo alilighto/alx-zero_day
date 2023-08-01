@@ -9,3 +9,4 @@
 // Log execution time in Bash script
 // Document usage of script.sh in README
 // Add script to clean build artifacts
+// Avoid `ls` in Bash scripts, use globs
