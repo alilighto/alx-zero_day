@@ -4,3 +4,4 @@
 // Improve indentation in C code
 // Use -e in echo statements for formatting
 // Use `#!/usr/bin/env bash` for portability
+// Use safer strncpy instead of strcpy
