@@ -11,3 +11,5 @@
 // Add script to clean build artifacts
 // Avoid `ls` in Bash scripts, use globs
 // Fix missing return statement in C
+// 
+// Improve trap handling in Bash
