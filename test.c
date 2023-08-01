@@ -17,3 +17,4 @@
 // Fix casting issue in C function
 // Avoid `ls` in Bash scripts, use globs
 // Check Bash version before executing script
+// Avoid `ls` in Bash scripts, use globs
