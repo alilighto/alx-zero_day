@@ -21,3 +21,4 @@
 // Fix multiple definitions in C project
 // Add colors to Bash prompt
 // Use stack allocation instead of malloc
+// Remove unused includes in C
