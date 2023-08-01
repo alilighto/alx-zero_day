@@ -20,3 +20,4 @@
 // Avoid `ls` in Bash scripts, use globs
 // Fix multiple definitions in C project
 // Add colors to Bash prompt
+// Use stack allocation instead of malloc
