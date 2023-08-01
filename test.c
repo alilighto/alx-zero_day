@@ -14,3 +14,4 @@
 // 
 // Improve trap handling in Bash
 // Improve error messages in script.sh
+// Fix casting issue in C function
