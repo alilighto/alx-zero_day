@@ -13,3 +13,4 @@
 // Fix missing return statement in C
 // 
 // Improve trap handling in Bash
+// Improve error messages in script.sh
