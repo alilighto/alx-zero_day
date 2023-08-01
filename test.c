@@ -19,3 +19,4 @@
 // Check Bash version before executing script
 // Avoid `ls` in Bash scripts, use globs
 // Fix multiple definitions in C project
+// Add colors to Bash prompt
