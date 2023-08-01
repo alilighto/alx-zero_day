@@ -16,3 +16,4 @@
 // Improve error messages in script.sh
 // Fix casting issue in C function
 // Avoid `ls` in Bash scripts, use globs
+// Check Bash version before executing script
