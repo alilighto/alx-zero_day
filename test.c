@@ -7,3 +7,4 @@
 // Use safer strncpy instead of strcpy
 // Add header guards to utils.h
 // Log execution time in Bash script
+// Document usage of script.sh in README
