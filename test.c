@@ -3,3 +3,4 @@
 // Optimize loop condition in C
 // Improve indentation in C code
 // Use -e in echo statements for formatting
+// Use `#!/usr/bin/env bash` for portability
