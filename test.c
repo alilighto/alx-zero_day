@@ -24,3 +24,4 @@
 // Remove unused includes in C
 // Use `read -r` instead of `read` in Bash
 // Improve indentation in C code
+// Refactor build.sh to reduce duplication
