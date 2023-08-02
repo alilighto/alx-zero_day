@@ -26,3 +26,4 @@
 // Improve indentation in C code
 // Refactor build.sh to reduce duplication
 // Add shellcheck compliance to scripts
+// Fix casting issue in C function
