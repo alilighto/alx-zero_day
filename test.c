@@ -22,3 +22,4 @@
 // Add colors to Bash prompt
 // Use stack allocation instead of malloc
 // Remove unused includes in C
+// Use `read -r` instead of `read` in Bash
