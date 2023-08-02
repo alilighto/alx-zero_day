@@ -25,3 +25,4 @@
 // Use `read -r` instead of `read` in Bash
 // Improve indentation in C code
 // Refactor build.sh to reduce duplication
+// Add shellcheck compliance to scripts
