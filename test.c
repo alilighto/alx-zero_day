@@ -28,3 +28,4 @@
 // Add shellcheck compliance to scripts
 // Fix casting issue in C function
 // Optimize memory allocation strategy
+// Use -e in echo statements for formatting
