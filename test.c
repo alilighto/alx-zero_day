@@ -27,3 +27,4 @@
 // Refactor build.sh to reduce duplication
 // Add shellcheck compliance to scripts
 // Fix casting issue in C function
+// Optimize memory allocation strategy
