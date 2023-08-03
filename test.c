@@ -34,3 +34,4 @@
 // Avoid `ls` in Bash scripts, use globs
 // Add -Wall -Werror flags to Makefile
 // Use `#!/usr/bin/env bash` for portability
+// Document expected environment variables
