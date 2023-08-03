@@ -32,3 +32,4 @@
 // Fix typo in Bash variable assignment
 // Add -n flag in echo to avoid newlines
 // Avoid `ls` in Bash scripts, use globs
+// Add -Wall -Werror flags to Makefile
