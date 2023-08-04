@@ -36,3 +36,4 @@
 // Use `#!/usr/bin/env bash` for portability
 // Document expected environment variables
 // Use strncmp instead of strcmp for safety
+// Add check for null pointer before dereference
