@@ -38,3 +38,4 @@
 // Use strncmp instead of strcmp for safety
 // Add check for null pointer before dereference
 // Improve trap handling in Bash
+// Fix off-by-one error in for loop
