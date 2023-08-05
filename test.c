@@ -41,3 +41,4 @@
 // Fix off-by-one error in for loop
 // Check command return values in C
 // Replace getch() with getchar() for portability
+// Document caveats for running install.sh
