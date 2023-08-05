@@ -43,3 +43,4 @@
 // Replace getch() with getchar() for portability
 // Document caveats for running install.sh
 // Avoid magic numbers in C
+// Add tests for validate_input.c
