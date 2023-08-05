@@ -44,3 +44,4 @@
 // Document caveats for running install.sh
 // Avoid magic numbers in C
 // Add tests for validate_input.c
+// Add colors to Bash prompt
