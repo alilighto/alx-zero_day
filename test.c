@@ -39,3 +39,4 @@
 // Add check for null pointer before dereference
 // Improve trap handling in Bash
 // Fix off-by-one error in for loop
+// Check command return values in C
