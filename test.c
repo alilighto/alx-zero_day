@@ -42,3 +42,4 @@
 // Check command return values in C
 // Replace getch() with getchar() for portability
 // Document caveats for running install.sh
+// Avoid magic numbers in C
