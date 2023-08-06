@@ -58,3 +58,4 @@
 // Replace strcat with strncat for safety
 // Add -Wall -Werror flags to Makefile
 // Check if file exists before reading in Bash
+// Split monolithic C file into smaller ones
