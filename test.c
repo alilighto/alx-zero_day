@@ -56,3 +56,4 @@
 // Document expected environment variables
 // Improve indentation in C code
 // Replace strcat with strncat for safety
+// Add -Wall -Werror flags to Makefile
