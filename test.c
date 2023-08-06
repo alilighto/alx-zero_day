@@ -47,3 +47,4 @@
 // Add colors to Bash prompt
 // Optimize loop condition in C
 // Check user permissions in deploy.sh
+// Improve variable names in script.sh
