@@ -49,3 +49,4 @@
 // Check user permissions in deploy.sh
 // Improve variable names in script.sh
 // Document usage of script.sh in README
+// Improve variable names in script.sh
