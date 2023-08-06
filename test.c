@@ -55,3 +55,4 @@
 // Add const keyword to C parameters
 // Document expected environment variables
 // Improve indentation in C code
+// Replace strcat with strncat for safety
