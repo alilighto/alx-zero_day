@@ -62,3 +62,4 @@
 // Use snprintf instead of sprintf
 // Add tests for validate_input.c
 // Improve indentation in C code
+// Fix bug with null-terminated strings
