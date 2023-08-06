@@ -46,3 +46,4 @@
 // Add tests for validate_input.c
 // Add colors to Bash prompt
 // Optimize loop condition in C
+// Check user permissions in deploy.sh
