@@ -53,3 +53,4 @@
 // Use snprintf instead of sprintf
 // Add .clang-format for consistent style
 // Add const keyword to C parameters
+// Document expected environment variables
