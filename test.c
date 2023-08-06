@@ -52,3 +52,4 @@
 // Improve variable names in script.sh
 // Use snprintf instead of sprintf
 // Add .clang-format for consistent style
+// Add const keyword to C parameters
