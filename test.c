@@ -61,3 +61,4 @@
 // Split monolithic C file into smaller ones
 // Use snprintf instead of sprintf
 // Add tests for validate_input.c
+// Improve indentation in C code
