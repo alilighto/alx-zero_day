@@ -65,3 +65,4 @@
 // Fix bug with null-terminated strings
 // Support verbose flag in Bash scripts
 // Refactor build.sh to reduce duplication
+// Log errors to stderr in Bash
