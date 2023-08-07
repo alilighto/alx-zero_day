@@ -66,3 +66,4 @@
 // Support verbose flag in Bash scripts
 // Refactor build.sh to reduce duplication
 // Log errors to stderr in Bash
+// Add shellcheck compliance to scripts
