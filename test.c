@@ -64,3 +64,4 @@
 // Improve indentation in C code
 // Fix bug with null-terminated strings
 // Support verbose flag in Bash scripts
+// Refactor build.sh to reduce duplication
