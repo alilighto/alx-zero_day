@@ -71,3 +71,4 @@
 // Fix bug with null-terminated strings
 // Fix infinite loop in C
 // Refactor Bash logging into a function
+// Use double brackets [[ ]] in Bash conditions
