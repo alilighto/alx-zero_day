@@ -70,3 +70,4 @@
 // Add const correctness to pointer params
 // Fix bug with null-terminated strings
 // Fix infinite loop in C
+// Refactor Bash logging into a function
