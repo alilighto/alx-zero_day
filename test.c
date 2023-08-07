@@ -67,3 +67,4 @@
 // Refactor build.sh to reduce duplication
 // Log errors to stderr in Bash
 // Add shellcheck compliance to scripts
+// Add const correctness to pointer params
