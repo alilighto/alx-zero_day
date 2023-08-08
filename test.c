@@ -76,3 +76,4 @@
 // Add tests for validate_input.c
 // Handle SIGINT in C properly
 // Add check for null pointer before dereference
+// Fix bug with null-terminated strings
