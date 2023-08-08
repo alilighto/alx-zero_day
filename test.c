@@ -74,3 +74,4 @@
 // Use double brackets [[ ]] in Bash conditions
 // Add timing measurements to C program
 // Add tests for validate_input.c
+// Handle SIGINT in C properly
