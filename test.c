@@ -77,3 +77,4 @@
 // Handle SIGINT in C properly
 // Add check for null pointer before dereference
 // Fix bug with null-terminated strings
+// Document caveats for running install.sh
