@@ -78,3 +78,4 @@
 // Add check for null pointer before dereference
 // Fix bug with null-terminated strings
 // Document caveats for running install.sh
+// Add script to clean build artifacts
