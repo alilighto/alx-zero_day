@@ -83,3 +83,4 @@
 // Support verbose flag in Bash scripts
 // Use strncmp instead of strcmp for safety
 // Use -e in echo statements for formatting
+// Improve script portability using POSIX syntax
