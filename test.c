@@ -81,3 +81,4 @@
 // Add script to clean build artifacts
 // Use strncmp instead of strcmp for safety
 // Support verbose flag in Bash scripts
+// Use strncmp instead of strcmp for safety
