@@ -84,3 +84,4 @@
 // Use strncmp instead of strcmp for safety
 // Use -e in echo statements for formatting
 // Improve script portability using POSIX syntax
+// Add signal handler in C for clean exit
