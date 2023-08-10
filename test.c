@@ -86,3 +86,4 @@
 // Improve script portability using POSIX syntax
 // Add signal handler in C for clean exit
 // Document expected environment variables
+// Optimize loop condition in C
