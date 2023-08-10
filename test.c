@@ -85,3 +85,4 @@
 // Use -e in echo statements for formatting
 // Improve script portability using POSIX syntax
 // Add signal handler in C for clean exit
+// Document expected environment variables
