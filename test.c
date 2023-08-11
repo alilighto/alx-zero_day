@@ -95,3 +95,4 @@
 // Handle invalid input in Bash
 // Fix logic error in if statement
 // Log errors to stderr in Bash
+// Replace getch() with getchar() for portability
