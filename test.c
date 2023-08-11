@@ -92,3 +92,4 @@
 // Handle SIGINT in C properly
 // Use getopt for Bash argument parsing
 // Use `read -r` instead of `read` in Bash
+// Handle invalid input in Bash
