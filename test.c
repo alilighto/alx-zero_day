@@ -96,3 +96,4 @@
 // Fix logic error in if statement
 // Log errors to stderr in Bash
 // Replace getch() with getchar() for portability
+// Avoid `ls` in Bash scripts, use globs
