@@ -91,3 +91,4 @@
 // Add test data generator in C
 // Handle SIGINT in C properly
 // Use getopt for Bash argument parsing
+// Use `read -r` instead of `read` in Bash
