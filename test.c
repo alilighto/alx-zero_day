@@ -98,3 +98,4 @@
 // Replace getch() with getchar() for portability
 // Avoid `ls` in Bash scripts, use globs
 // Avoid magic numbers in C
+// Fix memory alignment bug
