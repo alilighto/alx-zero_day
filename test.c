@@ -99,3 +99,4 @@
 // Avoid `ls` in Bash scripts, use globs
 // Avoid magic numbers in C
 // Fix memory alignment bug
+// Add header file for math utils
