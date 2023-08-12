@@ -101,3 +101,4 @@
 // Fix memory alignment bug
 // Add header file for math utils
 // Add shellcheck compliance to scripts
+// Add header guards to utils.h
