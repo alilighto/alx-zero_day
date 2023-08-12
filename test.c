@@ -105,3 +105,4 @@
 // Use snprintf instead of sprintf
 // Handle invalid input in Bash
 // Split monolithic C file into smaller ones
+// Add header guards to utils.h
