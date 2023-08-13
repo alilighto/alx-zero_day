@@ -121,3 +121,4 @@
 // Add .clang-format for consistent style
 // Improve error messages in script.sh
 // Improve indentation in C code
+// Add support for config file in Bash
