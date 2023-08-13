@@ -115,3 +115,4 @@
 // Improve error messages in script.sh
 // Add check for null pointer before dereference
 // Replace exit 1 with meaningful error codes
+// Use strncmp instead of strcmp for safety
