@@ -119,3 +119,4 @@
 // Convert tabs to spaces in script.sh
 // Add header file for math utils
 // Add .clang-format for consistent style
+// Improve error messages in script.sh
