@@ -114,3 +114,4 @@
 // Fix unset variables warning in script
 // Improve error messages in script.sh
 // Add check for null pointer before dereference
+// Replace exit 1 with meaningful error codes
