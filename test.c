@@ -111,3 +111,4 @@
 // Add memory freeing function in C
 // Add memory freeing function in C
 // Log execution time in Bash script
+// Fix unset variables warning in script
