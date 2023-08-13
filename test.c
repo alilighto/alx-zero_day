@@ -113,3 +113,4 @@
 // Log execution time in Bash script
 // Fix unset variables warning in script
 // Improve error messages in script.sh
+// Add check for null pointer before dereference
