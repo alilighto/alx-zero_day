@@ -118,3 +118,4 @@
 // Use strncmp instead of strcmp for safety
 // Convert tabs to spaces in script.sh
 // Add header file for math utils
+// Add .clang-format for consistent style
