@@ -120,3 +120,4 @@
 // Add header file for math utils
 // Add .clang-format for consistent style
 // Improve error messages in script.sh
+// Improve indentation in C code
