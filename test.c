@@ -107,3 +107,4 @@
 // Split monolithic C file into smaller ones
 // Add header guards to utils.h
 // Use snprintf instead of sprintf
+// Optimize memory allocation strategy
