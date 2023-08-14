@@ -123,3 +123,4 @@
 // Improve indentation in C code
 // Add support for config file in Bash
 // Use `read -r` instead of `read` in Bash
+// Refactor build.sh to reduce duplication
