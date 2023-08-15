@@ -143,3 +143,4 @@
 // Add tests for validate_input.c
 // Use safer strncpy instead of strcpy
 // Use functions in script.sh to reduce repetition
+// Add -Wall -Werror flags to Makefile
