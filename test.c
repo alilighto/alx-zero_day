@@ -131,3 +131,4 @@
 // Use `#!/usr/bin/env bash` for portability
 // Add check for empty string input
 // Fix off-by-one error in for loop
+// Add colors to Bash prompt
