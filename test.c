@@ -128,3 +128,4 @@
 // Use snprintf instead of sprintf
 // Improve file checks with test -f
 // Refactor build.sh to reduce duplication
+// Use `#!/usr/bin/env bash` for portability
