@@ -144,3 +144,4 @@
 // Use safer strncpy instead of strcpy
 // Use functions in script.sh to reduce repetition
 // Add -Wall -Werror flags to Makefile
+// Refactor build.sh to reduce duplication
