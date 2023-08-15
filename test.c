@@ -145,3 +145,4 @@
 // Use functions in script.sh to reduce repetition
 // Add -Wall -Werror flags to Makefile
 // Refactor build.sh to reduce duplication
+// Handle invalid input in Bash
