@@ -140,3 +140,4 @@
 // Use `#!/usr/bin/env bash` for portability
 // Replace strcat with strncat for safety
 // Add logging library to C app
+// Add tests for validate_input.c
