@@ -125,3 +125,4 @@
 // Use `read -r` instead of `read` in Bash
 // Refactor build.sh to reduce duplication
 // Add header guards to utils.h
+// Use snprintf instead of sprintf
