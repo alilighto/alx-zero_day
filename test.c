@@ -138,3 +138,4 @@
 // Improve variable names in script.sh
 // Refactor C code for readability
 // Use `#!/usr/bin/env bash` for portability
+// Replace strcat with strncat for safety
