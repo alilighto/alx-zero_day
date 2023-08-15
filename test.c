@@ -132,3 +132,4 @@
 // Add check for empty string input
 // Fix off-by-one error in for loop
 // Add colors to Bash prompt
+// Replace exit 1 with meaningful error codes
