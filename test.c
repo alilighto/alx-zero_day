@@ -134,3 +134,4 @@
 // Add colors to Bash prompt
 // Replace exit 1 with meaningful error codes
 // Add Makefile for C project
+// Use strncmp instead of strcmp for safety
