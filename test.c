@@ -136,3 +136,4 @@
 // Add Makefile for C project
 // Use strncmp instead of strcmp for safety
 // Improve variable names in script.sh
+// Refactor C code for readability
