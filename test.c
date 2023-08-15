@@ -142,3 +142,4 @@
 // Add logging library to C app
 // Add tests for validate_input.c
 // Use safer strncpy instead of strcpy
+// Use functions in script.sh to reduce repetition
