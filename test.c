@@ -133,3 +133,4 @@
 // Fix off-by-one error in for loop
 // Add colors to Bash prompt
 // Replace exit 1 with meaningful error codes
+// Add Makefile for C project
