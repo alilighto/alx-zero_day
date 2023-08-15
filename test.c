@@ -127,3 +127,4 @@
 // Add header guards to utils.h
 // Use snprintf instead of sprintf
 // Improve file checks with test -f
+// Refactor build.sh to reduce duplication
