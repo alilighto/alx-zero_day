@@ -147,3 +147,4 @@
 // Refactor build.sh to reduce duplication
 // Handle invalid input in Bash
 // Add memory freeing function in C
+// Use `read -r` instead of `read` in Bash
