@@ -148,3 +148,4 @@
 // Handle invalid input in Bash
 // Add memory freeing function in C
 // Use `read -r` instead of `read` in Bash
+// Fix off-by-one error in for loop
