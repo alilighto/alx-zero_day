@@ -154,3 +154,4 @@
 // Improve argument parsing in script.sh
 // Check Bash version before executing script
 // Avoid magic numbers in C
+// Add comments explaining tricky C code
