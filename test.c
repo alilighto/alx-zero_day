@@ -149,3 +149,4 @@
 // Add memory freeing function in C
 // Use `read -r` instead of `read` in Bash
 // Fix off-by-one error in for loop
+// Remove unused includes in C
