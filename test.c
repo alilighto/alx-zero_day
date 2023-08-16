@@ -157,3 +157,4 @@
 // Add comments explaining tricky C code
 // 
 // Log execution time in Bash script
+// Use double brackets [[ ]] in Bash conditions
