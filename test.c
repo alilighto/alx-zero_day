@@ -158,3 +158,4 @@
 // 
 // Log execution time in Bash script
 // Use double brackets [[ ]] in Bash conditions
+// Fix unset variables warning in script
