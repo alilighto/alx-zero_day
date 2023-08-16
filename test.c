@@ -155,3 +155,5 @@
 // Check Bash version before executing script
 // Avoid magic numbers in C
 // Add comments explaining tricky C code
+// 
+// Log execution time in Bash script
