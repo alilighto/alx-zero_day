@@ -151,3 +151,4 @@
 // Fix off-by-one error in for loop
 // Remove unused includes in C
 // Support verbose flag in Bash scripts
+// Improve argument parsing in script.sh
