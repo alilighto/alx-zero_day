@@ -153,3 +153,4 @@
 // Support verbose flag in Bash scripts
 // Improve argument parsing in script.sh
 // Check Bash version before executing script
+// Avoid magic numbers in C
