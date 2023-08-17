@@ -160,3 +160,4 @@
 // Use double brackets [[ ]] in Bash conditions
 // Fix unset variables warning in script
 // Add tests for validate_input.c
+// Add -n flag in echo to avoid newlines
