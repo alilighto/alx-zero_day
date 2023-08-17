@@ -166,3 +166,4 @@
 // Improve variable names in script.sh
 // Use functions in script.sh to reduce repetition
 // Fix segmentation fault in edge case
+// Create install script in Bash
