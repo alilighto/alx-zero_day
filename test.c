@@ -162,3 +162,4 @@
 // Add tests for validate_input.c
 // Add -n flag in echo to avoid newlines
 // Avoid `ls` in Bash scripts, use globs
+// Fix bug with null-terminated strings
