@@ -167,3 +167,4 @@
 // Use functions in script.sh to reduce repetition
 // Fix segmentation fault in edge case
 // Create install script in Bash
+// Support verbose flag in Bash scripts
