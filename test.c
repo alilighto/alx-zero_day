@@ -165,3 +165,4 @@
 // Fix bug with null-terminated strings
 // Improve variable names in script.sh
 // Use functions in script.sh to reduce repetition
+// Fix segmentation fault in edge case
