@@ -174,3 +174,4 @@
 // Add exit codes to Bash scripts
 // Avoid buffer overflow by checking bounds
 // Improve error handling in C main function
+// Support verbose flag in Bash scripts
