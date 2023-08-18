@@ -172,3 +172,4 @@
 // Fix race condition in Bash function
 // Fix infinite loop in C
 // Add exit codes to Bash scripts
+// Avoid buffer overflow by checking bounds
