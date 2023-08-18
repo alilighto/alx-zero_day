@@ -176,3 +176,4 @@
 // Improve error handling in C main function
 // Support verbose flag in Bash scripts
 // Add timing measurements to C program
+// Improve argument parsing in script.sh
