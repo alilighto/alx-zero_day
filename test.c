@@ -178,3 +178,4 @@
 // Add timing measurements to C program
 // Improve argument parsing in script.sh
 // Fix segmentation fault in edge case
+// Check if file exists before reading in Bash
