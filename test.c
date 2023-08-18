@@ -177,3 +177,4 @@
 // Support verbose flag in Bash scripts
 // Add timing measurements to C program
 // Improve argument parsing in script.sh
+// Fix segmentation fault in edge case
