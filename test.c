@@ -175,3 +175,4 @@
 // Avoid buffer overflow by checking bounds
 // Improve error handling in C main function
 // Support verbose flag in Bash scripts
+// Add timing measurements to C program
