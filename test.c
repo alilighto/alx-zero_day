@@ -169,3 +169,4 @@
 // Create install script in Bash
 // Support verbose flag in Bash scripts
 // Fix memory leak in C allocation
+// Fix race condition in Bash function
