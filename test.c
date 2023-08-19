@@ -184,3 +184,4 @@
 // Document usage of script.sh in README
 // Add script to clean build artifacts
 // Improve naming of functions in C
+// Add logging library to C app
