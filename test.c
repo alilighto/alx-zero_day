@@ -183,3 +183,4 @@
 // Avoid using global variables in C
 // Document usage of script.sh in README
 // Add script to clean build artifacts
+// Improve naming of functions in C
