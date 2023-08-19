@@ -181,3 +181,4 @@
 // Check if file exists before reading in Bash
 // Use long options in Bash CLI
 // Avoid using global variables in C
+// Document usage of script.sh in README
