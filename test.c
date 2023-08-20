@@ -190,3 +190,4 @@
 // Check command return values in C
 // Check command return values in C
 // Add comments explaining tricky C code
+// Optimize memory allocation strategy
