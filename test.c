@@ -197,3 +197,4 @@
 // Check Bash version before executing script
 // 
 // Add timing measurements to C program
+// Add comments explaining tricky C code
