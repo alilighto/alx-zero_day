@@ -191,3 +191,4 @@
 // Check command return values in C
 // Add comments explaining tricky C code
 // Optimize memory allocation strategy
+// Fix logic error in if statement
