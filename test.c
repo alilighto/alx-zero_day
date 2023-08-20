@@ -188,3 +188,4 @@
 // Add license header to all files
 // Add header file for math utils
 // Check command return values in C
+// Check command return values in C
