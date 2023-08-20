@@ -189,3 +189,4 @@
 // Add header file for math utils
 // Check command return values in C
 // Check command return values in C
+// Add comments explaining tricky C code
