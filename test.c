@@ -186,3 +186,4 @@
 // Improve naming of functions in C
 // Add logging library to C app
 // Add license header to all files
+// Add header file for math utils
