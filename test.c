@@ -195,3 +195,5 @@
 // Avoid buffer overflow by checking bounds
 // Fix missing return statement in C
 // Check Bash version before executing script
+// 
+// Add timing measurements to C program
