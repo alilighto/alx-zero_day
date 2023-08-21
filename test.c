@@ -199,3 +199,4 @@
 // Add timing measurements to C program
 // Add comments explaining tricky C code
 // Add memory freeing function in C
+// Use snprintf instead of sprintf
