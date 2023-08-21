@@ -203,3 +203,4 @@
 // Fix bug with null-terminated strings
 // Improve trap handling in Bash
 // Fix broken shebang in Bash script
+// Document expected environment variables
