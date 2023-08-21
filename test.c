@@ -202,3 +202,4 @@
 // Use snprintf instead of sprintf
 // Fix bug with null-terminated strings
 // Improve trap handling in Bash
+// Fix broken shebang in Bash script
