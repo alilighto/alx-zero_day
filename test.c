@@ -204,3 +204,4 @@
 // Improve trap handling in Bash
 // Fix broken shebang in Bash script
 // Document expected environment variables
+// Convert tabs to spaces in script.sh
