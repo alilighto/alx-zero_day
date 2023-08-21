@@ -201,3 +201,4 @@
 // Add memory freeing function in C
 // Use snprintf instead of sprintf
 // Fix bug with null-terminated strings
+// Improve trap handling in Bash
