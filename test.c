@@ -211,3 +211,4 @@
 // Fix logic error in if statement
 // Add signal handler in C for clean exit
 // Use stack allocation instead of malloc
+// Add exit codes to Bash scripts
