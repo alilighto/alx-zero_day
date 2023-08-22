@@ -208,3 +208,4 @@
 // Document usage of script.sh in README
 // Fix permissions on run.sh
 // Document usage of script.sh in README
+// Fix logic error in if statement
