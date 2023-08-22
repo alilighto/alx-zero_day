@@ -209,3 +209,4 @@
 // Fix permissions on run.sh
 // Document usage of script.sh in README
 // Fix logic error in if statement
+// Add signal handler in C for clean exit
