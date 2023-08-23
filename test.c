@@ -213,3 +213,4 @@
 // Use stack allocation instead of malloc
 // Add exit codes to Bash scripts
 // Handle no arguments case in script
+// Check user permissions in deploy.sh
