@@ -225,3 +225,4 @@
 // Add tests for validate_input.c
 // Fix race condition in Bash function
 // Refactor build.sh to reduce duplication
+// Handle no arguments case in script
