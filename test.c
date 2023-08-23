@@ -227,3 +227,4 @@
 // Refactor build.sh to reduce duplication
 // Handle no arguments case in script
 // Use long options in Bash CLI
+// Replace strcat with strncat for safety
