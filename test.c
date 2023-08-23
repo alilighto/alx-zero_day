@@ -219,3 +219,4 @@
 // Check pointer before freeing in C
 // Improve file checks with test -f
 // Use snprintf instead of sprintf
+// Use strncmp instead of strcmp for safety
