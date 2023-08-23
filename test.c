@@ -221,3 +221,4 @@
 // Use snprintf instead of sprintf
 // Use strncmp instead of strcmp for safety
 // Replace strcat with strncat for safety
+// Improve variable names in script.sh
