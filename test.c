@@ -215,3 +215,4 @@
 // Handle no arguments case in script
 // Check user permissions in deploy.sh
 // Use getopt for Bash argument parsing
+// Add header file for math utils
