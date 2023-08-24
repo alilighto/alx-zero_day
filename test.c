@@ -234,3 +234,4 @@
 // Add tests for validate_input.c
 // Avoid magic numbers in C
 // Use stack allocation instead of malloc
+// Improve trap handling in Bash
