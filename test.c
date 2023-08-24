@@ -230,3 +230,4 @@
 // Replace strcat with strncat for safety
 // Use functions in script.sh to reduce repetition
 // Replace backticks with $() in Bash
+// Use functions in script.sh to reduce repetition
