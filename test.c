@@ -232,3 +232,4 @@
 // Replace backticks with $() in Bash
 // Use functions in script.sh to reduce repetition
 // Add tests for validate_input.c
+// Avoid magic numbers in C
