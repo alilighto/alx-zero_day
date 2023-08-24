@@ -237,3 +237,4 @@
 // Improve trap handling in Bash
 // Log execution time in Bash script
 // Fix casting issue in C function
+// Add check for null pointer before dereference
