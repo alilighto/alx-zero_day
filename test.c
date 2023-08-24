@@ -238,3 +238,4 @@
 // Log execution time in Bash script
 // Fix casting issue in C function
 // Add check for null pointer before dereference
+// Handle SIGINT in C properly
