@@ -229,3 +229,4 @@
 // Use long options in Bash CLI
 // Replace strcat with strncat for safety
 // Use functions in script.sh to reduce repetition
+// Replace backticks with $() in Bash
