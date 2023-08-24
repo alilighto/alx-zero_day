@@ -236,3 +236,4 @@
 // Use stack allocation instead of malloc
 // Improve trap handling in Bash
 // Log execution time in Bash script
+// Fix casting issue in C function
