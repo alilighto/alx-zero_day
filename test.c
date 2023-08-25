@@ -239,3 +239,4 @@
 // Fix casting issue in C function
 // Add check for null pointer before dereference
 // Handle SIGINT in C properly
+// Fix logic error in if statement
