@@ -259,3 +259,4 @@
 // Check command return values in C
 // Add .clang-format for consistent style
 // Handle SIGINT in C properly
+// Use functions in script.sh to reduce repetition
