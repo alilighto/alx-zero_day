@@ -242,3 +242,4 @@
 // Fix logic error in if statement
 // Add const keyword to C parameters
 // Add exit codes to Bash scripts
+// Handle SIGINT in C properly
