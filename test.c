@@ -250,3 +250,4 @@
 // Support verbose flag in Bash scripts
 // Use functions in script.sh to reduce repetition
 // Add test data generator in C
+// Handle no arguments case in script
