@@ -256,3 +256,4 @@
 // Handle invalid input in Bash
 // Optimize loop condition in C
 // Add -Wall -Werror flags to Makefile
+// Check command return values in C
