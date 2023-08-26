@@ -260,3 +260,4 @@
 // Add .clang-format for consistent style
 // Handle SIGINT in C properly
 // Use functions in script.sh to reduce repetition
+// Use `read -r` instead of `read` in Bash
