@@ -247,3 +247,4 @@
 // Fix segmentation fault in edge case
 // Add const keyword to C parameters
 // Add .clang-format for consistent style
+// Support verbose flag in Bash scripts
