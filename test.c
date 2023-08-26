@@ -258,3 +258,4 @@
 // Add -Wall -Werror flags to Makefile
 // Check command return values in C
 // Add .clang-format for consistent style
+// Handle SIGINT in C properly
