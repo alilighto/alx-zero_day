@@ -246,3 +246,4 @@
 // Split monolithic C file into smaller ones
 // Fix segmentation fault in edge case
 // Add const keyword to C parameters
+// Add .clang-format for consistent style
