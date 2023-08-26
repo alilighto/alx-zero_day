@@ -257,3 +257,4 @@
 // Optimize loop condition in C
 // Add -Wall -Werror flags to Makefile
 // Check command return values in C
+// Add .clang-format for consistent style
