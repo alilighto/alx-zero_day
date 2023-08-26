@@ -244,3 +244,4 @@
 // Add exit codes to Bash scripts
 // Handle SIGINT in C properly
 // Split monolithic C file into smaller ones
+// Fix segmentation fault in edge case
