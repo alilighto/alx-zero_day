@@ -273,3 +273,4 @@
 // Improve error handling in C main function
 // Check command return values in C
 // Improve variable names in script.sh
+// Add comments explaining tricky C code
