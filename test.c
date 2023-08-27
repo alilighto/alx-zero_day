@@ -268,3 +268,4 @@
 // Fix missing return statement in C
 // Add Makefile for C project
 // Log execution time in Bash script
+// Remove unused includes in C
