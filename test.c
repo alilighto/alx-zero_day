@@ -264,3 +264,4 @@
 // Check command return values in C
 // Split monolithic C file into smaller ones
 // Log errors to stderr in Bash
+// Replace exit 1 with meaningful error codes
