@@ -274,3 +274,4 @@
 // Check command return values in C
 // Improve variable names in script.sh
 // Add comments explaining tricky C code
+// Refactor Bash logging into a function
