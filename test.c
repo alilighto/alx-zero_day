@@ -271,3 +271,4 @@
 // Remove unused includes in C
 // Add usage() function to Bash script
 // Improve error handling in C main function
+// Check command return values in C
