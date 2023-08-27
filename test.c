@@ -270,3 +270,4 @@
 // Log execution time in Bash script
 // Remove unused includes in C
 // Add usage() function to Bash script
+// Improve error handling in C main function
