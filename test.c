@@ -275,3 +275,4 @@
 // Improve variable names in script.sh
 // Add comments explaining tricky C code
 // Refactor Bash logging into a function
+// Support verbose flag in Bash scripts
