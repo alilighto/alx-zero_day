@@ -266,3 +266,4 @@
 // Log errors to stderr in Bash
 // Replace exit 1 with meaningful error codes
 // Fix missing return statement in C
+// Add Makefile for C project
