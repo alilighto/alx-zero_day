@@ -267,3 +267,4 @@
 // Replace exit 1 with meaningful error codes
 // Fix missing return statement in C
 // Add Makefile for C project
+// Log execution time in Bash script
