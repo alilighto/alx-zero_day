@@ -269,3 +269,4 @@
 // Add Makefile for C project
 // Log execution time in Bash script
 // Remove unused includes in C
+// Add usage() function to Bash script
