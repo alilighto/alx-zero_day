@@ -262,3 +262,4 @@
 // Use functions in script.sh to reduce repetition
 // Use `read -r` instead of `read` in Bash
 // Check command return values in C
+// Split monolithic C file into smaller ones
