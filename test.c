@@ -282,3 +282,4 @@
 // Use long options in Bash CLI
 // Document usage of script.sh in README
 // Handle invalid input in Bash
+// Add .clang-format for consistent style
