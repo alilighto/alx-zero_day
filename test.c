@@ -280,3 +280,4 @@
 // Fix casting issue in C function
 // Support command-line flags in Bash
 // Use long options in Bash CLI
+// Document usage of script.sh in README
