@@ -283,3 +283,4 @@
 // Document usage of script.sh in README
 // Handle invalid input in Bash
 // Add .clang-format for consistent style
+// Fix infinite loop in C
