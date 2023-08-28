@@ -277,3 +277,4 @@
 // Refactor Bash logging into a function
 // Support verbose flag in Bash scripts
 // Add license header to all files
+// Fix casting issue in C function
