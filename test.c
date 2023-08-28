@@ -278,3 +278,4 @@
 // Support verbose flag in Bash scripts
 // Add license header to all files
 // Fix casting issue in C function
+// Support command-line flags in Bash
