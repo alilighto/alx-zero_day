@@ -285,3 +285,4 @@
 // Add .clang-format for consistent style
 // Fix infinite loop in C
 // Support command-line flags in Bash
+// Improve error handling in C main function
