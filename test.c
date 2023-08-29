@@ -287,3 +287,4 @@
 // Support command-line flags in Bash
 // Improve error handling in C main function
 // Replace backticks with $() in Bash
+// Document expected environment variables
