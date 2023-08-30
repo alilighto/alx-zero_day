@@ -292,3 +292,4 @@
 // Use -e in echo statements for formatting
 // Fix unset variables warning in script
 // Add timing measurements to C program
+// Check if file exists before reading in Bash
