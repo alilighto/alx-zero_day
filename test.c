@@ -295,3 +295,4 @@
 // Check if file exists before reading in Bash
 // Add const correctness to pointer params
 // Add check for empty string input
+// Check command return values in C
