@@ -288,3 +288,4 @@
 // Improve error handling in C main function
 // Replace backticks with $() in Bash
 // Document expected environment variables
+// Add signal handler in C for clean exit
