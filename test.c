@@ -294,3 +294,4 @@
 // Add timing measurements to C program
 // Check if file exists before reading in Bash
 // Add const correctness to pointer params
+// Add check for empty string input
