@@ -296,3 +296,4 @@
 // Add const correctness to pointer params
 // Add check for empty string input
 // Check command return values in C
+// Replace strcat with strncat for safety
