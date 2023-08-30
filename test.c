@@ -291,3 +291,4 @@
 // Add signal handler in C for clean exit
 // Use -e in echo statements for formatting
 // Fix unset variables warning in script
+// Add timing measurements to C program
